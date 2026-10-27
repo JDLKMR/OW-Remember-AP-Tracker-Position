@@ -1,8 +1,8 @@
 {
   "filename": "APTrackerRemember.dll",
-  "author": "Local",
-  "name": "AP Tracker Remember Position",
-  "uniqueName": "Local.APTrackerRememberPosition",
+  "author": "JD",
+  "name": "Remember AP Tracker Position",
+  "uniqueName": "JD.APTrackerRememberPosition",
   "version": "1.0.0",
   "owmlVersion": "2.9.8"
 }
